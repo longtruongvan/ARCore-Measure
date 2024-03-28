@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/6731382dd33550cd748fd6623b90e36a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:17:1-44:12
+MERGED from [com.android.support:design:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/569a808a2c0e689c71b85ae882a6bb5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a94d56e47e6290612ce511ffb4721a2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Users/longtv/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/d823e867524f3748bb31104c7fb50211/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/7529f166aecbd17e07dabb1506a20a88/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Users/longtv/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/0773808f6e730f65a2dd1bb33e95a9dc/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/025fc2b57cb383b1aaa86130a4e1955a/AndroidManifest.xml:22:1-33:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/f0b2e679506e8b4e7821257c763608c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7a751f3cfdf911fb51a8cf1f07ae33a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/68d8ce211211ebb08f571c25cc994b7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/9583413f8954a0fdae716f4f24a20ed2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/48b39eb4664075d028723c8aff5e8a1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/981bc4d3ac4da92fd091a960d007ab9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d3f15d422f81e7fe4b6c0faac17e9c4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/b6f13b46650b3d673bf58238d62a90b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b3e8c7e25c5b64ef7dafb82a5d6b77e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6e1533578777de9d330526437b377341/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/longtv/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d5d2f3f41ba121bb679998c948280289/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:1:1-37:12
+	package
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:8:5-86
+	android:required
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:8:61-84
+	android:name
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:8:19-60
+application
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:9:5-34:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/6731382dd33550cd748fd6623b90e36a/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/6731382dd33550cd748fd6623b90e36a/AndroidManifest.xml:11:5-20
+MERGED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:28:5-42:19
+MERGED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:28:5-42:19
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Users/longtv/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/d823e867524f3748bb31104c7fb50211/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Users/longtv/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/d823e867524f3748bb31104c7fb50211/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/7529f166aecbd17e07dabb1506a20a88/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/7529f166aecbd17e07dabb1506a20a88/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Users/longtv/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/0773808f6e730f65a2dd1bb33e95a9dc/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Users/longtv/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/0773808f6e730f65a2dd1bb33e95a9dc/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/025fc2b57cb383b1aaa86130a4e1955a/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/025fc2b57cb383b1aaa86130a4e1955a/AndroidManifest.xml:31:5-20
+	android:supportsRtl
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:13:9-48
+	android:icon
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.hl3hl3.arcoremeasure.ArMeasureActivity
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:17:9-27:20
+	android:screenOrientation
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:22:13-47
+	android:label
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:20:13-59
+	android:theme
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:21:13-63
+	android:name
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:18:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:25:27-74
+meta-data#com.google.ar.core
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:30:9-81
+	android:value
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:30:54-78
+	android:name
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:30:20-53
+meta-data#io.fabric.ApiKey
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:31:9-33:72
+	android:value
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:33:13-69
+	android:name
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:32:13-44
+uses-permission#android.permission.INTERNET
+ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:36:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/6731382dd33550cd748fd6623b90e36a/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/6731382dd33550cd748fd6623b90e36a/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Users/longtv/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/d823e867524f3748bb31104c7fb50211/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Users/longtv/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/d823e867524f3748bb31104c7fb50211/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/7529f166aecbd17e07dabb1506a20a88/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/7529f166aecbd17e07dabb1506a20a88/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Users/longtv/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/0773808f6e730f65a2dd1bb33e95a9dc/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Users/longtv/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/0773808f6e730f65a2dd1bb33e95a9dc/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/025fc2b57cb383b1aaa86130a4e1955a/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/025fc2b57cb383b1aaa86130a4e1955a/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml:36:22-64
+uses-sdk
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/6731382dd33550cd748fd6623b90e36a/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-2.6.8.aar/6731382dd33550cd748fd6623b90e36a/AndroidManifest.xml:7:5-43
+MERGED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:25:5-44
+MERGED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:25:5-44
+MERGED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:26:5-47
+MERGED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:26:5-47
+MERGED from [com.android.support:design:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/569a808a2c0e689c71b85ae882a6bb5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/569a808a2c0e689c71b85ae882a6bb5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a94d56e47e6290612ce511ffb4721a2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/a94d56e47e6290612ce511ffb4721a2e/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Users/longtv/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/d823e867524f3748bb31104c7fb50211/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Users/longtv/.gradle/caches/transforms-1/files-1.1/beta-1.2.5.aar/d823e867524f3748bb31104c7fb50211/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/7529f166aecbd17e07dabb1506a20a88/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.17.aar/7529f166aecbd17e07dabb1506a20a88/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Users/longtv/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/0773808f6e730f65a2dd1bb33e95a9dc/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] /Users/longtv/.gradle/caches/transforms-1/files-1.1/answers-1.3.13.aar/0773808f6e730f65a2dd1bb33e95a9dc/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/025fc2b57cb383b1aaa86130a4e1955a/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] /Users/longtv/.gradle/caches/transforms-1/files-1.1/fabric-1.3.17.aar/025fc2b57cb383b1aaa86130a4e1955a/AndroidManifest.xml:27:5-43
+MERGED from [com.android.support:support-v4:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/f0b2e679506e8b4e7821257c763608c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/f0b2e679506e8b4e7821257c763608c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7a751f3cfdf911fb51a8cf1f07ae33a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/7a751f3cfdf911fb51a8cf1f07ae33a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/68d8ce211211ebb08f571c25cc994b7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/68d8ce211211ebb08f571c25cc994b7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/9583413f8954a0fdae716f4f24a20ed2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/9583413f8954a0fdae716f4f24a20ed2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/48b39eb4664075d028723c8aff5e8a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/48b39eb4664075d028723c8aff5e8a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/981bc4d3ac4da92fd091a960d007ab9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/981bc4d3ac4da92fd091a960d007ab9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d3f15d422f81e7fe4b6c0faac17e9c4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d3f15d422f81e7fe4b6c0faac17e9c4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/b6f13b46650b3d673bf58238d62a90b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/b6f13b46650b3d673bf58238d62a90b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b3e8c7e25c5b64ef7dafb82a5d6b77e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b3e8c7e25c5b64ef7dafb82a5d6b77e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6e1533578777de9d330526437b377341/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/longtv/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6e1533578777de9d330526437b377341/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/longtv/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d5d2f3f41ba121bb679998c948280289/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/longtv/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d5d2f3f41ba121bb679998c948280289/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+		ADDED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+		MERGED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/longtv/Documents/GitHub/ARCore-Measure/app/src/main/AndroidManifest.xml
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:31:9-37:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:34:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:35:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:32:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:39:9-41:41
+	android:value
+		ADDED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:41:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.0.0] /Users/longtv/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/765c4fa8dce5ad3b662e86e2779ee236/AndroidManifest.xml:40:13-62
