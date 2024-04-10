@@ -152,6 +152,7 @@ public class ArMeasureActivity extends AppCompatActivity {
     //    OverlayView overlayViewForTest;
     private TextView tv_result;
     private FloatingActionButton fab;
+    private FloatingActionButton btnCapture;
 
     private GLSurfaceRenderer glSerfaceRenderer = null;
     private GestureDetector.SimpleOnGestureListener gestureDetectorListener = new GestureDetector.SimpleOnGestureListener() {
@@ -186,12 +187,19 @@ public class ArMeasureActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        CaptureCoordinator.setListener(new CaptureListener() {
+            @Override
+            public void onCapture() {
+                isCapture = true;
+            }
+        });
         Fabric.with(this, new Crashlytics());
         setContentView(R.layout.activity_main);
 
 //        overlayViewForTest = (OverlayView)findViewById(R.id.overlay_for_test);
         tv_result = findViewById(R.id.tv_result);
         fab = findViewById(R.id.fab);
+        btnCapture = findViewById(R.id.btnCapture);
 
         for(int i=0; i<cubeIconIdArray.length; i++){
             ivCubeIconList[i] = findViewById(cubeIconIdArray[i]);
@@ -227,6 +235,13 @@ public class ArMeasureActivity extends AppCompatActivity {
             }
         });
         fab.hide();
+
+        btnCapture.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                CaptureCoordinator.onCapture();
+            }
+        });
 
 
         displayRotationHelper = new DisplayRotationHelper(/*context=*/ this);
@@ -499,6 +514,11 @@ public class ArMeasureActivity extends AppCompatActivity {
         return popupWindow;
     }
 
+    private Boolean isCapture = false;
+    private GL10 gl10;
+    private Frame lastFrame;
+    private Camera lastCamera;
+
     private class GLSurfaceRenderer implements GLSurfaceView.Renderer{
         private static final String TAG = "GLSurfaceRenderer";
         private Context context;
@@ -634,8 +654,18 @@ public class ArMeasureActivity extends AppCompatActivity {
                 // Obtain the current frame from ARSession. When the configuration is set to
                 // UpdateMode.BLOCKING (it is by default), this will throttle the rendering to the
                 // camera framerate.
-                Frame frame = session.update();
-                Camera camera = frame.getCamera();
+                Frame frame = lastFrame;
+                Camera camera = lastCamera;
+                if (!isCapture || lastFrame == null) {
+                    frame = session.update();
+                    lastFrame = frame;
+                }
+                if (!isCapture || lastCamera == null) {
+                    camera = frame.getCamera();
+                    lastCamera = camera;
+                }
+
+
                 // Draw background.
                 backgroundRenderer.draw(frame);
 
