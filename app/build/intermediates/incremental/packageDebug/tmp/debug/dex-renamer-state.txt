@@ -1,7 +1,0 @@
-#Thu Mar 28 16:39:04 ICT 2024
-base.0=/Users/longtv/Documents/GitHub/ARCore-Measure/app/build/intermediates/transforms/dexMerger/debug/0
-path.1=classes.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=/Users/longtv/Documents/GitHub/ARCore-Measure/app/build/intermediates/transforms/dexMerger/debug/1
