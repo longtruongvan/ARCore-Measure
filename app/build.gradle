@@ -16,12 +16,12 @@ repositories {
 
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 33
     defaultConfig {
         applicationId 'com.hl3hl3.arcoremeasure'
         // 24 is the minimum since ARCore only works with 24 and higher.
         minSdkVersion 24
-        targetSdkVersion 27
+        targetSdkVersion 33
         versionCode 13
         versionName "1.6"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
